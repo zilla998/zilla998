@@ -4,9 +4,10 @@
   <em>Backend разработчик | Python | Django | Go | DevOps</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zilla998&label=Просмотры+профиля&color=blue&style=flat" alt="zilla998" />
-</p>
+<h1 align="center">
+  Привет, я Zilla 👋  
+  <img src="https://komarev.com/ghpvc/?username=zilla998&style=flat-square&color=blue" alt="просмотры профиля" height="20"/>
+</h1>
 
 ---
 
