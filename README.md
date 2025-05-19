@@ -21,7 +21,7 @@
 
 ### ⏱ WakaTime (кодинг-активность)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=zilla998&theme=tokyonight&layout=compact)](https://wakatime.com/@zilla998)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@zilla998&theme=tokyonight&layout=compact)](https://wakatime.com/@zilla998)
 
 ---
 
