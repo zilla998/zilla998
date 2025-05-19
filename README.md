@@ -13,7 +13,7 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zilla998&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilla998&layout=compact&theme=tokyonight" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@zilla998&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
