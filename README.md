@@ -1,10 +1,10 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Привет, я Zilla 👋  
   <img src="https://komarev.com/ghpvc/?username=zilla998&style=flat-square&color=blue" alt="просмотры профиля" height="20"/>
-</h1>
+</h1> -->
 
 <p align="center">
-  <em>Backend разработчик | Python | Django | Go | DevOps</em>
+  <em>Backend разработчик | Python | Django | DevOps</em>
 </p>
 
 ---
